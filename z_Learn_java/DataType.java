@@ -52,8 +52,9 @@ public class DataType {
 
         // References data type
         int[] arr = {1,2,3,6,8,9};
-        String name = "Java";
+        String name = "Java world";
         DataType obj = new DataType();
+        
 
     }
 
